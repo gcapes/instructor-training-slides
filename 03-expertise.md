@@ -112,4 +112,7 @@ This discussion should take about 5 minutes.
   - Learn about your learners' goals and motivations
   - Overcome your expert blindspot
 
-
+# Key points
+- Experts face challenges when teaching due to expert blindspot
+- Expert blindspot is knowing something so well it seems easy when it isn't
+- Can overcome expert blindspot with practice
