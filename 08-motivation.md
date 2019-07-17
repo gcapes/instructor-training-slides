@@ -5,9 +5,10 @@
 - Motivation is the best predictor of learning,
   and this episode covers typical ways learners are motivated,
   and how they can be demotivated.
-- Most scientists just want to do science,
-  and view programming as a 'tax'.
-- Early programming experiences often demoralising.
+- Situation we're often dealing with:
+  - Most scientists just want to do science,
+    and view programming as a 'tax'.
+  - Early programming experiences often demoralising.
 
 ::: notes
 
@@ -32,7 +33,7 @@ and believe they can master it.
 
 ---
 
-![](what-to-teach.png)
+![What to teach](what-to-teach.png)
 
 ---
 
@@ -123,6 +124,56 @@ This exercise should take about 5 minutes.
   - No-one likes being made fun of!
 
 :::
+
+# Stereotype threat
+> Self-confirming belief that one may be evaluated based on a negative stereotype
+
+- Anxiety about confirming those stereotypes can reduce performance
+  - Don't remind people of negative stereotypes
+  - “I’m so glad you’re here because we don’t get enough women in programming.”
+- Never learn alone
+  - Get people to sign up in groups
+
+# Imposter syndrome
+![The unfounded belief that you're not good enough](https://imgs.xkcd.com/comics/impostor_syndrome.png)
+
+# Dealing with imposter syndrome
+- Ask for feedback from someone you trust, and believe it!
+- Learn from role models
+
+- Academics are particularly susceptible  (isolated working, public results)
+- Share stories of your mistakes and struggles
+  - It's OK to find things difficult!
+- Emphasise that you want questions
+
+# Accessibility
+- Unequal access to lessons is demotivating!
+  - e.g. screen readers unable to read images
+- Not always possible to accommodate everyone, but *can* have a structure in place
+  - Do easy things first, gives confidence other concerns will be addressed
+  - e.g. font, text size, room access
+- **Accessibility measures help everyone**
+  - e.g. curb cuts, image captioning
+
+# Exercise
+The UK Home Office has put together a set of posters of dos and don’ts
+for making visual and web-based materials more accessible for different populations.
+Take a look at one of [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and put one thing you’ve learned in the Etherpad.
+
+This exercise should take about 5 minutes.
+
+# Inclusivity
+- Policy of including people who might otherwise be marginalised
+  - e.g. women, people of colour, LGBT, disabled
+- Making a positive effort to be more welcoming to those groups
+- Make notes free of gendered pronouns, use culturally diverse names
+- Emphasise the rate of learning is important, not their starting point
+- Encourage pair programming
+
+# [Code of conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+- Sets expectations for participation
+- Just the fact it exists tells people something about our values
+- "Be excellent to each other"
 
 # Key points
 - A positive learning environment helps people concentrate on learning.
