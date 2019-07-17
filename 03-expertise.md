@@ -31,7 +31,7 @@ Experts can
 
 ---
 
-![](mental_models.svg)
+![Representation of mental models](mental_models.svg)
 
 ::: notes
 
