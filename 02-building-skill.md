@@ -7,7 +7,7 @@ This section is about how learning works, based on educational research.
 # Carpentries pedagogical model
 - Carpentries teach computational competance to learners
 - Applied approach: specific, practical examples
-	- Allows hands-on pracice, building confidence and laying foundation for future learning
+	- Allows hands-on practice, building confidence and laying foundation for future learning
 	- Real time practice and feedback
 	- Two-way feedback allows instructors to adjust pace and content, and improves lesson materials
 
@@ -28,13 +28,19 @@ This section is about how learning works, based on educational research.
 
 # Development of mental models
 - Effective learning happens when the learner creates a mental model of the domain.
-- Mental model is a collection of facts and concepts, 
+- Mental model is a collection of facts and concepts,
   along with their relationships.
   - US resident example.
 - Novice doesn't have a mental model of the domain.
 - They therefore reason by analogy and mental models of other domains.
 - Competent practitioner has a good-enough mental model for everyday purposes.
 - Experts have many more linkages between concepts - discussed in more depth later.
+
+::: notes
+
+For example, a long-time resident of the United States may have an advanced understanding of the location of US states, major cities and landmarks, weather patterns, regional economies and demographic patterns, as well as the relationships among these, compared with their understanding of these relationships for other countries. In other words, their mental model of the United States is more complex compared with their mental model of other countries.
+
+:::
 
 ---
 
@@ -44,16 +50,16 @@ This section is about how learning works, based on educational research.
 
 # Teaching novices
 - Research shows each stage of skill needs to be taught differently.
-- Presenting novices with a pile of facts early on doesn't work 
+- Presenting novices with a pile of facts early on doesn't work
   because they need a mental model to fit them into.
-- Our aim is to help novices to build a mental model, 
+- Our aim is to help novices to build a mental model,
   so how to think about programming,
   so they can learn more on their own.
 
 
 # Importance of going slowly
-> If someone feels it’s too slow, they’ll be a bit bored. 
-> If they feel it’s too fast, they’ll never come back to programming. 
+> If someone feels it’s too slow, they’ll be a bit bored.
+> If they feel it’s too fast, they’ll never come back to programming.
 
 - The material is designed to focus on building mental models,
   and avoids overloading learners with unrelated facts.
@@ -80,6 +86,14 @@ So fixing misconceptions is as important as presenting correct information.
 - Broken models: correct by reasoning (our focus)
 - Fundamental beliefs: can't really address
 
+::: notes
+
+e.g. broken mental model
+
+- Motion and acceleration must be in the same direction
+
+:::
+
 ---
 
 ## Identifying and correcting misconceptions
@@ -88,7 +102,7 @@ So fixing misconceptions is as important as presenting correct information.
 - This comes from *formative assessment*.
 - Summative assessment is pass/fail e.g. driving test.
 - Formative assessment is a feedback mechanism, not a pass/fail.
-- Allows learners to focus their study effort, 
+- Allows learners to focus their study effort,
   and instructors to respond to challenges learners are facing.
 
 - Repetition vs reflective practice:
@@ -119,14 +133,14 @@ So fixing misconceptions is as important as presenting correct information.
 :::
 
 # Exercise
-- Take 10 minutes to create a multiple choice question related to a topic you intend to teach. 
+- Take 10 minutes to create a multiple choice question related to a topic you intend to teach.
 - Type it into the Etherpad and explain the diagnostic power of each its distractors,
   i.e., what misconception is each distractor meant to identify?
 
 # Formative Assessments Should Be Frequent
 1. Teach some stuff
 2. Present MCQ probing for misconceptions
-3. Students answer a MCQ 
+3. Students answer a MCQ
 
 - Do it frequently - e.g every 15 mins or so
 - Can be done preemptively
