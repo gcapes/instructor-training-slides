@@ -43,7 +43,7 @@ and believe they can master it.
   explain how you would use it (or a simplified version of it) as an exercise or example in class.
 - **Pair** up with your neighbor and decide where this exercise fits on a graph of “short/long time to master”
   and “low/high usefulness”.
-- In the class Etherpad, **share** the task and where it fits on the graph.
+- In the class shared document, **share** the task and where it fits on the graph.
   As a group, we will discuss how these relate back to our “teach most immediately useful first” approach.
 
 This exercise and discussion should take about 10 minutes.
@@ -91,7 +91,7 @@ Useful to check lessons against these points to make sure they’re doing at lea
 - Think back to a time when you were demotivated as a student (or when you demotivated a student).
 - Pair up with your neighbour and discuss what could have been done differently in the situation
   to make it not demotivating.
-- Share your story in the Etherpad.
+- Share your story in the shared document.
 
 This exercise should take about 5 minutes.
 
@@ -158,7 +158,7 @@ This exercise should take about 5 minutes.
 # Exercise
 The UK Home Office has put together a set of posters of dos and don’ts
 for making visual and web-based materials more accessible for different populations.
-Take a look at one of [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and put one thing you’ve learned in the Etherpad.
+Take a look at one of [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and put one thing you’ve learned in the shared document.
 
 This exercise should take about 5 minutes.
 

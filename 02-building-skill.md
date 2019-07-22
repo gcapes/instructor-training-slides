@@ -134,7 +134,7 @@ e.g. broken mental model
 
 # Exercise
 - Take 10 minutes to create a multiple choice question related to a topic you intend to teach.
-- Type it into the Etherpad and explain the diagnostic power of each its distractors,
+- Type it into the shared document and explain the diagnostic power of each its distractors,
   i.e., what misconception is each distractor meant to identify?
 
 # Formative Assessments Should Be Frequent

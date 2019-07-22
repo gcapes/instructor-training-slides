@@ -16,7 +16,7 @@
 - *Think*: What kind of mindset do you have about different areas? Is there anything you believe you are “not naturally talented” at? Mindset often varies in different areas – someone might have a fixed mindset with respect to artistic ability, but a growth mindset with respect to computing skill. Then, think about your learners. How might a learner’s mindset about computational skill influence their learning in a workshop setting?
 - *Pair*: Discuss your thoughts about the influence of mindset in a workshop.
   Try to come up with a few different ways or situations in which mindset might be relevant.
-- *Share*: A few thoughts in the Etherpad
+- *Share*: A few thoughts in the shared document
 
 This exercise should take about 5 minutes.
 

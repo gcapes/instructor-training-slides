@@ -55,7 +55,7 @@ Experts can
     be explicit about the process even if it seems trivial to you
 
 # Exercise
-In the Etherpad, give at least one example of a fluid representation that you use in your own work.
+In the shared document, give at least one example of a fluid representation that you use in your own work.
 If you can, also give an example of a fluid representation that might occur in a Carpentry lesson.
 
 
@@ -90,7 +90,7 @@ replace it with more positive word choices.
 - What other words or phrases can have the effect of demotivating learners?
 - What alternatives can we use to express this meaning in a positive and motivational way?
 
-- In the Etherpad, make a list of demotivating words/phrases and alternatives.
+- In the shared document, make a list of demotivating words/phrases and alternatives.
 
 This discussion should take about 5 minutes.
 
