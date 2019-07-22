@@ -49,6 +49,31 @@ Which of these are examples of performance-based, effort-based, or improvement-b
 - You’re really talented.
 - That was a hard problem. You didn’t get the right answer, but look at how much you learned trying to solve it!
 
+# Errors are essential to learning
+- Avoidance of making errors is a barrier to learning
+- Positive *error framing* presents errors as integral part of learning
+  - Use them as teaching opportunities (live coding - how to debug)
+  - Errors provide learning opportunities, not negative consequences
+
+# Perseverance predicts success
+- *Grit* is an essential trait in learning
+  - Willing to fail if it gets them closer to goal
+  - Learners with grit are more successful in life
+- Grit not innate - obtain by
+  - sharing your experiences of struggle
+  - promoting perseverance (praise improvement)
+  - sharing passion
+  - emphasise long-term goals
+
+# Habits of lifelong learners
+- Being a lifelong learner is good for your job propects
+  - non-routine problem solving
+  - able to focus on cognitively demanding tasks
+- Lifelong learning results from growth mindset
+- Emphasise help-seeking behaviour as positive
+- Show that we as instructors
+  - are life-long learners
+  - don't know everything!
 
 # Key points
 - Growth mindset and grit promote learning by making effort a positive thing
