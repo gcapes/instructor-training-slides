@@ -1,7 +1,7 @@
 % Motivation and demotivation
 % Gerard Capes
 
-## Overview
+# Overview
 - Motivation is the best predictor of learning,
   and this episode covers typical ways learners are motivated,
   and how they can be demotivated.
