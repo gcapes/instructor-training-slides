@@ -12,7 +12,7 @@
 - Fixed mindset people avoid situations where they have to perform
 - Reduces opportunities for practice and feedback (essential for learning)
 
-# Does mindset matter?
+# Exercise: Does mindset matter?
 - *Think*: What kind of mindset do you have about different areas? Is there anything you believe you are “not naturally talented” at? Mindset often varies in different areas – someone might have a fixed mindset with respect to artistic ability, but a growth mindset with respect to computing skill. Then, think about your learners. How might a learner’s mindset about computational skill influence their learning in a workshop setting?
 - *Pair*: Discuss your thoughts about the influence of mindset in a workshop.
   Try to come up with a few different ways or situations in which mindset might be relevant.
@@ -38,7 +38,7 @@ This exercise should take about 5 minutes.
   - Reinforces growth mindset
   - Ability to improve with effort
 
-# Choosing our praises
+# Exercise: Choosing our praises
 Since we’re so used to being praised for our performance,
 it can be challenging to change the way we praise our learners.
 
@@ -55,6 +55,13 @@ Which of these are examples of performance-based, effort-based, or improvement-b
   - Use them as teaching opportunities (live coding - how to debug)
   - Errors provide learning opportunities, not negative consequences
 
+# Exercise: Helping learners learn from mistakes
+- A learner at your workshop asks for your help with an exercise and shows you their attempt at solving it.
+- You see they’ve made an error that shows they misunderstand something fundamental about the lesson 
+  (for example, in the shell lesson, they forgot to put a space between `ls` 
+  and the name of the directory they are looking at). 
+- What would you say to the learner?
+
 # Perseverance predicts success
 - *Grit* is an essential trait in learning
   - Willing to fail if it gets them closer to goal
@@ -64,6 +71,15 @@ Which of these are examples of performance-based, effort-based, or improvement-b
   - promoting perseverance (praise improvement)
   - sharing passion
   - emphasise long-term goals
+
+# Exercise: How Are You Gritty?
+- Think of a time when learning something was difficult for you,
+  or you made a mistake that seemed silly or embarrassing.
+- How did you motivate yourself to continue learning? 
+- How did it feel to persist in the face of challenge? 
+- How do you feel now about your capabilities in this area?
+
+In the shared document, describe how you could use this story to illustrate the importance of grit for your learners.
 
 # Habits of lifelong learners
 - Being a lifelong learner is good for your job propects

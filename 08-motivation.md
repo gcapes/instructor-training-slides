@@ -82,6 +82,20 @@ Useful to check lessons against these points to make sure they’re doing at lea
 
 :::
 
+# Exercise
+## Strategies for motivating learners
+- Discuss ideas from the list in the shared document,
+  and describe how they can be applied in our workshops
+
+# Exercise
+## Brainstorm motivational strategies
+- Think back to a computational (or other) course you took in the past,
+  and identify one thing the instructor did that motivated you.
+- Pair up with your neighbour and discuss what motivated you.
+- Share the motivational story in the shared document.
+
+This exercise should take about 5 minutes.
+
 # Demotivation
 - Motivation can go both ways - don't crush their enthusiasm!
 - No-one intends to demotivate, but it's easy to do accidentally.
