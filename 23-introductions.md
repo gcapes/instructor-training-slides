@@ -7,7 +7,7 @@
 - What does a good introduction look like?
 
 # Exercise: Your academic past
- - Recall a course you realy liked or didn't like.
+ - Recall a course you really liked or didn't like.
 
 # Introductions
 - Introductions set the tone for the workshop
