@@ -48,6 +48,10 @@ For example, a long-time resident of the United States may have an advanced unde
 
 ---
 
+# Exercise
+In the shared document,
+write your primary research domain or area of expertise and some aspects of the mental model you use to frame and understand your work. What concepts/facts are included? What types of relationships are included?
+
 # Teaching novices
 - Research shows each stage of skill needs to be taught differently.
 - Presenting novices with a pile of facts early on doesn't work
