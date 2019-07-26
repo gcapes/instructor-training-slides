@@ -38,7 +38,8 @@ Experts can
 - This representation is just a metaphor!
 - The more connections a fact has to other facts,
   the more likely it is to be remembered.
-- Helping learners to make connections is as important as introducing them to facts.
+- Helping learners to make connections is as important as 
+  introducing them to facts.
 
 :::
 
