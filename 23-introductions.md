@@ -20,7 +20,7 @@
 # Goals for the introduction
 - Want learners to:
   - believe in your competence
-  - know the type of insturction
+  - know the type of instruction
   - know what will be taught
   - what is required of them
 - Instructor should:
