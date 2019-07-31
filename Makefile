@@ -9,7 +9,7 @@ all: $(SLIDES_HTML) index.html
 index.html: index.md
 	pandoc index.md -o index.html -s
 
-%.html: %.md $(THEME_FILE)
+%.html: %.md 
 	pandoc -t revealjs -s -o $@ $*.md -V theme=$(THEME)
 
 .PHONY: variables
