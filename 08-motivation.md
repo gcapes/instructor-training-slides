@@ -37,7 +37,7 @@ and believe they can master it.
 
 ---
 
-# Exercise: think, pair, share
+# Exercise: Authentic tasks
 - **Think** about some task you did this week that uses one or more of the skills we teach,
   (e.g. wrote a function, bulk downloaded data, built a plot in R, forked a repo) and
   explain how you would use it (or a simplified version of it) as an exercise or example in class.
@@ -169,7 +169,7 @@ This exercise should take about 5 minutes.
 - **Accessibility measures help everyone**
   - e.g. curb cuts, image captioning
 
-# Exercise
+# Exercise: Learning about accessibility
 The UK Home Office has put together a set of posters of dos and don’ts
 for making visual and web-based materials more accessible for different populations.
 Take a look at one of [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and put one thing you’ve learned in the shared document.

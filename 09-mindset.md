@@ -46,7 +46,7 @@ Which of these are examples of performance-based, effort-based, or improvement-b
 
 - I like the way you tried a couple of different strategies to solve that problem.
 - You’re getting really good at that. Keep up the hard work!
-- You’re really talented.
+- You’re really good at that.
 - That was a hard problem. You didn’t get the right answer, but look at how much you learned trying to solve it!
 
 # Errors are essential to learning
@@ -66,7 +66,7 @@ Which of these are examples of performance-based, effort-based, or improvement-b
 - *Grit* is an essential trait in learning
   - Willing to fail if it gets them closer to goal
   - Learners with grit are more successful in life
-- Grit not innate - obtain by
+- Grit can be learned. Help learners obtain grit by
   - sharing your experiences of struggle
   - promoting perseverance (praise improvement)
   - sharing passion
