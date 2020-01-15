@@ -1,11 +1,9 @@
 % Managing a diverse classroom
 % Gerard Capes
 
-# Managing a diverse classroom
+# Exercise: Managing a diverse classroom
 - Workshops targetted at novices, but they have various backgrounds and skills
 - Can be novice in one topic, and more advanced in others
-
-## Exercise
 - What are the challenges in adjusting your instruction accordingly?
 
 # Some strategies
