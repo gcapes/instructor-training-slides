@@ -7,7 +7,8 @@
 - What does a good introduction look like?
 
 # Exercise: Your academic past
- - Recall a course you really liked or didn't like.
+- Recall a course you really liked or didn't like
+- Think about how it started
 
 # Introductions
 - Introductions set the tone for the workshop
@@ -27,15 +28,29 @@
   - understand who is taking the workshop, and their expectations
 
 # Components of the introduction
-- To meet the goals, an introduction should:
-  - Set positive first impressions
-  - Introduce yourself effectively (and have other workshop leaders do the same)
-  - Clarify learning objectives and expectations
-  - Help learners learn about each other
-  - Set the tone for the workshop
-  - Collect baseline data on learners’ knowledge and motivation
-  - Whet learners’ appetite for workshop content
-  - Inform Learners of Logistics
+To meet these objectives, an introduction should:
+
+- Set positive first impressions
+  - Your attire
+  - The physical environment
+  - How you use the few minutes before the class
+- Introduce yourself effectively (and have other workshop leaders do the same)
+  - What characteristics do you want to convey about yourself?
+  - What should you say to convey them?
+  - Why are you teaching a Carpentries workshop?
+  - What shouldn't you say?
+
+# Components of the introduction
+- Clarify learning objectives and your expectations
+  - Describe prerequisites
+  - Highlight main aspects of schedule
+  - Communicate the workshop structure
+  - Code of conduct
+- Help learners learn about each other
+- Set the tone for the workshop
+  - Establish a culture of feedback
+- Whet learners’ appetite for workshop content
+- Inform Learners of Logistics
 
 ::: notes
 
