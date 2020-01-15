@@ -48,9 +48,11 @@ For example, a long-time resident of the United States may have an advanced unde
 
 ---
 
-# Exercise
-In the shared document,
-write your primary research domain or area of expertise and some aspects of the mental model you use to frame and understand your work. What concepts/facts are included? What types of relationships are included?
+# Exercise: Your mental models (5 mins)
+- In the shared document,
+  write your primary research domain or area of expertise and some aspects of the mental model you use to frame and understand your work.
+- What concepts/facts are included?
+- What types of relationships are included?
 
 # Teaching novices
 - Research shows each stage of skill needs to be taught differently.
@@ -113,9 +115,8 @@ e.g. broken mental model
   - 10,000 hours practice -> expert ... but only with feedback.
   - Hence we emphasise practice and feedback in workshops.
 
-# Formative assessments
-- e.g. MCQ
-- Each incorrect answer should be a plausible distractor with diagnostic power
+# Exercise: Identify the misconceptions (10 mins)
+- Each incorrect answer to an MCQ should be a plausible distractor with diagnostic power
 
 - What is 27 + 15?
   1. 42
@@ -136,7 +137,13 @@ e.g. broken mental model
 
 :::
 
-# Exercise
+# Exercise: Handling outcomes (5 mins)
+- Formative assessments allow us as instructors to adapt our instruction to our audience. What should we do as instructors if the class chooses:
+  - mostly one of the wrong answers?
+  - mostly the right answer?
+  - an even spread among options?
+
+# Exercise: Modelling novice mental models
 - Take 10 minutes to create a multiple choice question related to a topic you intend to teach.
 - Type it into the shared document and explain the diagnostic power of each its distractors,
   i.e., what misconception is each distractor meant to identify?
