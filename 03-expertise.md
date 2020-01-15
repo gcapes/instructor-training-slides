@@ -6,7 +6,7 @@
 - Novices don't have a good mental model
 - Competent practitioners have a good-enough mental model
 
-# Exercise
+# Exercise: What is an expert?
 - Name someone that you think is an expert (doesn’t matter what they’re an expert in).
   As an expert, what makes them special or different from other people?
 
@@ -55,7 +55,7 @@ Experts can
   - This is particularly important when diagnosing errors:
     be explicit about the process even if it seems trivial to you
 
-# Exercise
+# Exercise: Fluid representations
 In the shared document, give at least one example of a fluid representation that you use in your own work.
 If you can, also give an example of a fluid representation that might occur in a Carpentry lesson.
 
@@ -87,7 +87,7 @@ and that they therefore must be stupid.
 With practice we can avoid this type of demotivating language and
 replace it with more positive word choices.
 
-# Exercise
+# Exercise: Changing your language
 - What other words or phrases can have the effect of demotivating learners?
 - What alternatives can we use to express this meaning in a positive and motivational way?
 
@@ -109,8 +109,8 @@ This discussion should take about 5 minutes.
   - If someone who has been told that tries it, and it doesn’t work, they are more likely to become discouraged.
 
 # Importance of practice
-- Use formative assessments frequently
-  - Learn about your learners' goals and motivations
+- Use formative assessments frequently to help tailor your teaching to your learners
+  - Find out about your learners' goals and motivations
   - Overcome your expert blindspot
 
 # Key points
