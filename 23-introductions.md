@@ -14,7 +14,8 @@
 - Introductions set the tone for the workshop
 - Learners should leave workshop feel excited and empowered
   - Positive and welcoming environment is important
-  - A planned introduction helps get you started
+  - A planned introduction helps get you started,
+    and can help you reset after technical difficulties
 
 # Exercise: What's in an introduction?
 
