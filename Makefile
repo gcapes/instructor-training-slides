@@ -8,11 +8,11 @@ all: $(SLIDES_HTML) index.html
 index.html: index.md
 	pandoc $< -o $@ -s
 
-%.html: %.md 
+%.html: %.md
 	pandoc -t revealjs -s -o $@ $< -V theme=$(THEME)
 
 .PHONY: variables
 variables:
-	@echo SLDIES_MD: $(SLIDES_MD)
+	@echo SLIDES_MD: $(SLIDES_MD)
 	@echo SLIDES_HTML: $(SLIDES_HTML)
 	@echo THEME: $(THEME)
